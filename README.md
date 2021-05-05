@@ -14,10 +14,20 @@ The game is implemented in Java using OOP principles:
 - keep open/closed principle states.
 - Working with GUI.
 
+## Simulation
+![](ArknoidLevels.gif)
+
 
 ## Installation
+1. Clone the repository:
+```
+$ git clone https://github.com/SapirDavid/ArkanoidGame.git
 
+```
 
-
-## Simulation
-
+2. run this commands:
+```
+$ make
+$ make jar
+$ make run
+```
